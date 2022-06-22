@@ -1,0 +1,168 @@
+
+body
+{
+    background-color: #F4F9F9;
+}
+
+.logo
+{
+    position: relative;
+    left: 2%;
+    top: 20%;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.nav-link
+{
+    color: black;
+    font-family: 'Mukta', sans-serif;
+
+    
+}
+.navbar
+{
+    position: absolute;
+    right: 0%;
+
+    top: 0%; 
+    
+}
+
+.navbar-nav
+{
+    position: relative; 
+    right: 60px;
+}
+
+.nav-container
+{
+    background-color: #91C788;
+    height: 60px;
+    width: auto;
+}
+
+.footer-container
+{
+   text-align: center;
+   position: absolute;
+   width: 100%;
+   bottom: 1%;
+}
+
+.social-media
+{
+    margin: 10px;     
+    color: black;
+}
+
+.social-media:hover
+{
+    color: #91C788;
+}
+
+.nav-link:hover
+{
+    color: black;
+}
+
+.main-container
+{
+
+    position: absolute;
+    height: 70%;
+    width: 100%;
+    text-align: center;
+    
+
+}
+
+.investment-heading
+{
+    position: relative;
+    top: 10%;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.investment-description
+{
+    position: relative;
+    top: 15%;
+    font-family: 'Libre Baskerville', serif;
+}
+.expenses-heading
+{
+    position: relative;
+    top: 10%;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.expenses-description
+{
+    position: relative;
+    top: 15%;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.index-heading
+{
+    position: relative;
+    top: 40%;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.index-description
+{
+    position: relative;
+    top: 45%;
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+.contact-form
+{
+
+    position: absolute;
+    left: 20%;
+    top: 35%;
+    padding: 20px;
+}
+
+label
+{
+    font-family: 'Libre Baskerville', serif;
+    padding-top: 15px;
+}
+
+.contact-label
+{
+    font-family: 'Libre Baskerville', serif;
+    padding-top: 15px;
+}
+
+
+.expenses-form
+{
+    position: absolute;
+    left: 25%;
+    top: 25%;
+    padding: 20px;
+}
+input
+{
+    width: 80%
+}
+
+.btn
+{
+    top: 100%;
+}
+
+.chart
+{
+    position: absolute;
+    width: 40%;
+    right: 10%;
+    top: 35%;
+    height: 50%;
+}
+
